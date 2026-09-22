@@ -12,6 +12,10 @@ Java → Agent / RAG 工程师。在能源与物流业务里做可上线的 AI �
 | [VoltSage](https://github.com/ShengL1n/VoltSage) | Java 21 | 光储运维智能体：遥测→可解释根因→手册检索→工单；Docker + 指标 |
 | [HarborCheck](https://github.com/ShengL1n/HarborCheck) | Python | 物流单证三方核对：规则优先 + LLM 修复 + FastAPI + 指标 |
 | [Lumenscope](https://github.com/ShengL1n/Lumenscope) | Node.js | LLM 成本/延迟归因：span、瀑布、按业务线出账 |
+| [FlowForge](https://github.com/ShengL1n/FlowForge) | Java 21 | 可恢复工作流：DAG/重试/补偿/检查点 |
+| [ToolGate](https://github.com/ShengL1n/ToolGate) | Node.js | 企业 Tool/MCP 网关：鉴权/限流/审计/成本 |
+| [HydroSeek](https://github.com/ShengL1n/HydroSeek) | Python | 混合检索：BM25+向量+RRF |
+| [infra-kata](https://github.com/ShengL1n/infra-kata) | Java 21 | mini-rpc / mini-cache / mini-limiter |
 | [ai-chatbot-all](https://github.com/ShengL1n/ai-chatbot-all) | TS/Java | 全栈 AI 对话应用 monorepo |
 
 ## 技术栈
