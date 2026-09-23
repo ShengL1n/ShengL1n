@@ -30,3 +30,7 @@ Java → Agent / RAG 工程师。在能源与物流业务里做可上线的 AI �
 1. 按 JD 选 1–2 个项目深讲：**业务问题 → 架构取舍 → 边界与指标**
 2. 可上线项目可演示：`docker compose up` → `/metrics` → Grafana
 3. 组合故事：网关(PolyRoute) + 评测(RAGLens) + 业务 Agent(VoltSage) + 单证核对(HarborCheck) + 成本归因(Lumenscope)
+
+## 整体规划
+
+架构地图与后续优化路线见 [PORTFOLIO.md](./PORTFOLIO.md)。
